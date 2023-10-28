@@ -64,4 +64,31 @@ contract priceFeeds{
 
 }
 ```
+
+Here are the methods for latestRoundData
+
+```solidity
+function latestRoundData() external view
+    returns (
+        uint80 roundId,
+        int256 answer,
+        uint256 startedAt,
+        uint256 updatedAt,
+        uint80 answeredInRound
+    )
+
+/*
+Return values:
+
+roundId: The round ID.
+answer: The data that this specific feed provides. Depending on the feed you selected, this answer provides asset prices, reserves, NFT floor prices, and other types of data.
+startedAt: Timestamp of when the round started.
+updatedAt: Timestamp of when the round was updated.
+answeredInRound:  Deprecated - Previously used when answers could take multiple rounds to be computed
+*/
+```
+
+Useful resources:
+
+1. [Data feeds api refrenece](https://docs.chain.link/data-feeds/api-reference)
   
