@@ -15,6 +15,8 @@ Keeper nodes ---CheckUpKeep--> Upkeep contract ------> Keepers registry -----> K
 ## Example
 
 ![Time based](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/Images/Screenshot%202023-10-28%20at%2015.19.55.png)
+![next step](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/Images/Screenshot%202023-10-28%20at%2015.22.17.png)
+![cron step]()
 
 ## Important Links
 
