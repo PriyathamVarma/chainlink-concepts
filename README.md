@@ -4,7 +4,14 @@ This repo is about learning chainlink concepts --> Data Feeds, VRF Randomness, K
 
 ## Basic Architecture
 
+## Information
 
+| S.No | Topic | Info |
+|- | - | - |
+| 1 | Data feeds | [LINK HERE](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/DataFeeds.md) |
+| 2 | VRF | [LINK HERE](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/VRF.md) |
+| 3 | Data Streams | [LINK HERE](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/DataStreams.md) |
+| 4 | Automation | [LINK HERE](https://github.com/PriyathamVarma/chainlink-concepts/blob/main/automation.md) |
 
 
 ## Video Links
